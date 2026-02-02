@@ -5,3 +5,4 @@ for i in n:
     l[i] = input("Enter element : ")
     i=i+1
 print(l)
+# hello gokul
